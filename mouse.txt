@@ -1,1 +1,3 @@
 Small, grey, fuzzy toy.
+
+Not as popular as snake toy.
